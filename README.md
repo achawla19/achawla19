@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshit Chawla
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on questions and topics including DSA
+- 🌱 I’m currently learning DSA and Front End.
+- 💞️ I’m looking to collaborate on questions and topics including DSA, Javascript and C++
 - 📫 Reach me through my mail: achawla.main@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
