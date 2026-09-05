@@ -7,7 +7,7 @@ Pre-final year ECE student at Thapar Institute of Engineering and Technology, bu
 - 🧠 And **DeepGuard** — a CNN/MobileNet-based real-vs-AI-generated image classifier (94% accuracy on CIFAKE)
 - 🌱 Currently sharpening: system design fundamentals and GenAI concepts beyond basic prompting (RAG, agents)
 - 💬 Ask me about: React/Node full-stack builds, LLM API integration, or transfer learning with CNNs
-- 📫 Reach me: achawla.main@gmail.com | [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 📫 Reach me: achawla.main@gmail.com | [LinkedIn](https://www.linkedin.com/in/akshit-chawla-8229a528a/)
 
 ---
 
@@ -50,8 +50,8 @@ Pre-final year ECE student at Thapar Institute of Engineering and Technology, bu
 
 | Project | Description | Stack |
 |---|---|---|
-| [**RhyMerge**](https://github.com/YOUR-USERNAME/rhymerge) | Real-time music collaboration platform with encrypted messaging, artist recommendations, and a social connection graph | React · Node.js · MongoDB · Socket.io |
-| [**IntuitCode**](https://github.com/YOUR-USERNAME/intuitcode) | Chrome extension: voice-based Socratic AI interviewer for LeetCode, enforcing verbal explanation before coding | TypeScript · Chrome APIs · Groq API |
+| [**RhyMerge**](https://github.com/achawla19/RhyMerge-Music) | Real-time music collaboration platform with encrypted messaging, artist recommendations, and a social connection graph | React · Node.js · MongoDB · Socket.io |
+| [**IntuitCode**](https://github.com/achawla19/IntuitCode-extension) | Chrome extension: voice-based Socratic AI interviewer for LeetCode, enforcing verbal explanation before coding | TypeScript · Chrome APIs · Groq API |
 | [**DeepGuard**](https://github.com/YOUR-USERNAME/deepguard) | Real vs AI-generated image classifier — 94% accuracy via CNN/MobileNet transfer learning, with Grad-CAM interpretability | Python · TensorFlow · Flask · React |
 
 ---
@@ -63,4 +63,4 @@ Pre-final year ECE student at Thapar Institute of Engineering and Technology, bu
 
 ---
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Portfolio](https://your-portfolio-link.com) · achawla.main@gmail.com
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/akshit-chawla-8229a528a/) · [Portfolio](https://your-portfolio-link.com) · achawla.main@gmail.com
